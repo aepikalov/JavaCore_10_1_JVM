@@ -1,4 +1,4 @@
-package JavaCore_10_1;
+package JavaCore_10_1_JVM;
 
 public class JvmComprehension {
     // Класс JvmComprehension отдается для загрузки в систему ClassLoader'ов
